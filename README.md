@@ -10,7 +10,7 @@ Control system **brightness** and **audio volume** using hand gestures in real t
 - Left hand controls **system volume**
 - Live on-screen bars for both levels
 - Smooth adjustment using gesture distance
-- Works with any webcam
+- Works with any webcam 
 
 ---
 
