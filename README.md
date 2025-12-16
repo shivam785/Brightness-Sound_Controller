@@ -2,9 +2,7 @@
 # Gesture Control: Brightness & Volume
 
 Control system **brightness** and **audio volume** using hand gestures in real time with MediaPipe and OpenCV.
-
 ---
-
 ## Features
 - Right hand controls **screen brightness**
 - Left hand controls **system volume**
